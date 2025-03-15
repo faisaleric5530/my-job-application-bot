@@ -1,7 +1,7 @@
 const express = require("express");
 const multer = require("multer");
 const xlsx = require("xlsx");
-const applyJob = require("./applyJob");
+const applyJob = require("./applyJobs");
 require("dotenv").config();
 
 const app = express();
