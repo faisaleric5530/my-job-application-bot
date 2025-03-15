@@ -33,4 +33,4 @@ app.post("/upload", upload.single("file"), async (req, res) => {
     }
 });
 
-app.listen(5734, () => console.log("Server running on port 5734..."));
+app.listen(5734, () => console.log("Server running on port 5734...🚀🚀"));
